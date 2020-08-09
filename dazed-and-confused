@@ -12,7 +12,6 @@
 	font-family: Helvetica 'Arial'. serif;}
     body{
 	background-color: #d4d4d4;
-	
 	}
 	.nav{
 	background-color: rgb(59, 59, 59);
